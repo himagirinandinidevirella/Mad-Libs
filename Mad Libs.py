@@ -1,0 +1,8 @@
+name = input("Enter a name: ")
+place = input("Enter a place: ")
+animal = input("Enter an animal: ")
+food = input("Enter a food: ")
+print(f"{name} went to {place}.")
+print(f"There, {name} saw a {animal}.")
+print(f"The {animal} was eating {food}.")
+print("It was a funny day!")
